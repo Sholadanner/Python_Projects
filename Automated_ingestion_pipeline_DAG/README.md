@@ -2,8 +2,6 @@
 
 This project demonstrates a complete automated data ingestion workflow using Python DAG script. It downloads a COVID-19 dataset and uploads it to a BigQuery dataset and updates the dataset every single day.
 
-To avoid exposing local file paths or sensitive credentials, the script uses environment variables.
-
 ---
 
 ## Data Source
