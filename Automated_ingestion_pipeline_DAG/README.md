@@ -6,9 +6,9 @@ To avoid exposing local file paths or sensitive credentials, the script uses env
 
 ---
 
-## Data Sources
+## Data Source
 
-- **OurWorldinData Covid-19 dataset (https://covid.ourworldindata.org/data/owid-covid-data.csv).
+- OurWorldinData Covid-19 dataset (https://covid.ourworldindata.org/data/owid-covid-data.csv).
 
 
 ---
